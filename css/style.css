@@ -1,0 +1,147 @@
+.header {
+	height: 480px;
+	background-image: url(../img/backgr.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+	top: 0;
+	bottom: 0;
+}
+
+.overlay {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	height: 100%;
+	width: 100%;
+	z-index: -1;
+}
+
+.content {
+	width: 900px;
+}
+
+.center-part {
+	padding-top: 70px;
+}
+
+.big-header {
+	font-size: 100px;
+	color: white;
+	font-weight: 600;
+}
+
+.btn-learn-more {
+	width: 260px;
+	height: 50px;
+	background-color: transparent;
+	border: 2px solid white;
+	border-radius: 3px;
+	font-weight: 600;
+	color: white;
+}
+
+.web-dev {
+	height: 450px;
+	margin-top: 70px;
+	background-color: slategrey;
+}
+
+.iden-branding {
+	background-color: #fafafa;
+	height: 450px;
+}
+
+.skills {
+	height: 450px;
+	margin: 40px 0;
+}
+
+.bg-black {
+	background-color: black;
+}
+.text-light-btn {
+	margin-left: 40px;
+	float: right;
+	text-decoration: none !important;
+	color: steelblue;
+}
+
+.text-light-btn :hover {
+	color: tan !important;
+	font-size: 20px !important;
+}
+
+.awesome-clients {
+	height: 700px;
+	background-color: #fafafa;
+}
+
+.big-circle {
+	width: 200px;
+	height: 200px;
+}
+
+.rect {
+	height: 130px;
+	border: 1px solid #ededed;
+	background-color: white;
+	border-radius: 3px;
+	padding: 15px 40px;
+}
+.icon-class {
+	font-size: 30px;
+}
+
+.txt-col {
+	color: #7f97c9;
+}
+
+.text-part-col {
+	color: #777777;
+}
+
+.logos {
+	height: 140px;
+	background-color: white;
+}
+
+.amazing-team {
+	height: 660px;
+	background-color: black;
+}
+
+.circle {
+	width: 200px;
+	height: 200px;
+	border: 8px solid white;
+}
+
+.small-circle {
+	width: 40px;
+	height: 40px;
+	border: 2px solid white;
+}
+
+.footer-contact-part {
+	height: 600px;
+	background-color: #7690c5;
+}
+
+.footer {
+	height: 60px;
+	background-color: #7690c5;
+}
+
+.connect > span > i {
+	font-size: 30px;
+}
+
+.border-rad {
+	border-radius: 3px;
+	border: 1px solid #c0c0c0;
+}
+
+.inp-height {
+	height: 50px;
+}
